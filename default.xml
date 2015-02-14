@@ -510,7 +510,6 @@
   <!-- Moto G 2014 -->
   <project name="motog2014devteam/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="cm-11.0" />
   <project name="motog2014devteam/android_device_motorola_titan" path="device/motorola/titan" remote="github" revision="cm-11.0" />
-  <project name="motog2014devteam/android_kernel_motorola_titan-OLD" path="kernel/motorola/titan" remote="github" revision="cm-11.0" />
   <project name="motog2014devteam/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-11.0" />
 
 </manifest>
